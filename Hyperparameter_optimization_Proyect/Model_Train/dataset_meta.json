@@ -1,0 +1,9 @@
+{
+  "N_samples": 3952,
+  "input_len": 1024,
+  "n_freqs": 513,
+  "trainval_size": 3161,
+  "test_size": 791,
+  "batch_size_default": 32,
+  "n_splits_cv": 3
+}
